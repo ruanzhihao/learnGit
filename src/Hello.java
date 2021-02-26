@@ -16,5 +16,8 @@ public class Hello {
         System.out.println("提交新分支");
         System.out.println("分支冲突2");
         System.out.println("分支冲突");
+
+        //=================================
+        System.out.println("dev");
     }
 }
