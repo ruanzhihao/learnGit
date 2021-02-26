@@ -8,5 +8,8 @@ public class Hello {
         String str=scanner.nextLine();
         System.out.println("请输入GitHub密码：");
         String str1=scanner.nextLine();
+        if ("123".equals(str)){
+            System.out.println("输入成功");
+        }
     }
 }
