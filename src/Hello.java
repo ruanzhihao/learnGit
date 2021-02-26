@@ -14,5 +14,6 @@ public class Hello {
         }
         //dev分支
         System.out.println("提交新分支");
+        System.out.println("分支冲突");
     }
 }
