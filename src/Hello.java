@@ -12,5 +12,12 @@ public class Hello {
         if ("123".equals(str)){
             System.out.println("输入成功");
         }
+        //dev分支
+        System.out.println("提交新分支");
+        System.out.println("分支冲突2");
+        System.out.println("分支冲突");
+
+        //=================================
+        System.out.println("dev");
     }
 }
